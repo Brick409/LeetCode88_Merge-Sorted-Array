@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Merge_Sorted_Array", "Merge_Sorted_Array\Merge_Sorted_Array.vcxproj", "{3693EA68-3EE8-452C-BE30-E0938BB36068}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3693EA68-3EE8-452C-BE30-E0938BB36068}.Debug|x64.ActiveCfg = Debug|x64
+		{3693EA68-3EE8-452C-BE30-E0938BB36068}.Debug|x64.Build.0 = Debug|x64
+		{3693EA68-3EE8-452C-BE30-E0938BB36068}.Debug|x86.ActiveCfg = Debug|Win32
+		{3693EA68-3EE8-452C-BE30-E0938BB36068}.Debug|x86.Build.0 = Debug|Win32
+		{3693EA68-3EE8-452C-BE30-E0938BB36068}.Release|x64.ActiveCfg = Release|x64
+		{3693EA68-3EE8-452C-BE30-E0938BB36068}.Release|x64.Build.0 = Release|x64
+		{3693EA68-3EE8-452C-BE30-E0938BB36068}.Release|x86.ActiveCfg = Release|Win32
+		{3693EA68-3EE8-452C-BE30-E0938BB36068}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAA90AFB-CDDE-45DB-A10E-190B89B5AEF9}
+	EndGlobalSection
+EndGlobal
